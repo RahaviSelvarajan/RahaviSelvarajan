@@ -39,7 +39,12 @@ const rahavi = {
 <br />
 
 ### 📈 My GitHub stats
-
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=RahaviSelvarajan&show_icons=true&theme=gotham" alt="rahavi" />
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=RahaviSelvarajan&show_icons=true&layout=compact&theme=dracula&hide=prs" alt="rahavi" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahaviSelvarajan&layout=compact&show_icons=true&theme=dracula" alt="top" />
+</p>
+ 
+<br />
 
 📝 Check out my <a href="https://github.com/RahaviSelvarajan/rselva/blob/652fc64691d5cba5c8bf8b0b3efd73f747d74ec4/CV.pdf"> resume </a> <br />
+💬 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahavi-selv/)
