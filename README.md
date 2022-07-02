@@ -37,7 +37,7 @@ const rahavi = {
 ```
 <br />
 
-### 📈 My GitHub stats
+### 📊 My GitHub stats
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=RahaviSelvarajan&show_icons=true&layout=compact&theme=dracula&hide=prs" alt="rahavi" width=500 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahaviSelvarajan&layout=compact&show_icons=true&theme=dracula" alt="top" />
