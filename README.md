@@ -45,4 +45,4 @@ const rahavi = {
  
 <br />
 📝 Check out my <a href="https://github.com/RahaviSelvarajan/rselva/blob/652fc64691d5cba5c8bf8b0b3efd73f747d74ec4/CV.pdf"> resume </a> <br />
-💬 Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rahavi-selv/)
+💬 Feel free to ping me on <a href="https://www.linkedin.com/in/rahavi-selv/"> LinkedIn </a>
