@@ -5,7 +5,6 @@
 <a href="https://twitter.com/RahaviSelva30"><img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/rahavi-selv/"><img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
 ![](https://visitor-badge.glitch.me/badge?page_id=RahaviSelvarajan.RahaviSelvarajan)
-
 <br />
 
 ### Current Positions
