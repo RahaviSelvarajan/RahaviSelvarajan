@@ -9,16 +9,15 @@
 <br />
 
 ### Current Positions
-<img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/graduating-student.png"/>  Graduate student at <a href="https://www.utoronto.ca/"> University of Toronto</a> <br />
-<img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/machine-learning.png" />  ML Intern at <a href="https://aid4mental.health/"> AID4MH, CAMH</a> <br />
-<img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/woman.png" />  Research Volunteer at <a href="https://www.dlsph.utoronto.ca/"> Dalla Lana School of Public Health </a> <br />
+- <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/graduating-student.png"/>  Graduate student at <a href="https://www.utoronto.ca/"> University of Toronto</a> <br />
+- <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/machine-learning.png" />  ML Intern at <a href="https://aid4mental.health/"> AID4MH, CAMH</a> <br />
+- <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/woman.png" />  Research Volunteer at <a href="https://www.dlsph.utoronto.ca/"> Dalla Lana School of Public Health </a> <br />
 
 ### Previous Experience
 
-<img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/8750df97d7df6e8d3eb82586653e029ac1bfb858/CV.png" /> Computer Vision Intern at <a href="https://www.jacobb.ai/en/"> JACOBB AI </a> <br />
-<img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/idea.png" />   Research Assistant at <a href="https://www.dsp.utoronto.ca/"> Multimedia Lab, UofT </a> <br />
-<img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/df618baf23ba7f29f9b8e7a3b35e6e87baac7758/girl.png" /> 
-Teaching Assistant at <a href="https://www.utoronto.ca/"> University of Toronto</a> <br />
+- <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/8750df97d7df6e8d3eb82586653e029ac1bfb858/CV.png" /> Computer Vision Intern at <a href="https://www.jacobb.ai/en/"> JACOBB AI </a> <br />
+- <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/idea.png" />   Research Assistant at <a href="https://www.dsp.utoronto.ca/"> Multimedia Lab, UofT </a> <br />
+- <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/df618baf23ba7f29f9b8e7a3b35e6e87baac7758/girl.png" /> Teaching Assistant at <a href="https://www.utoronto.ca/"> University of Toronto</a> <br />
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
@@ -40,7 +39,7 @@ const rahavi = {
 
 ### 📈 My GitHub stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=RahaviSelvarajan&show_icons=true&layout=compact&theme=dracula&hide=prs" alt="rahavi" />
+<img src="https://github-readme-stats.vercel.app/api?username=RahaviSelvarajan&show_icons=true&layout=compact&theme=dracula&hide=prs" alt="rahavi" width=500 />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahaviSelvarajan&layout=compact&show_icons=true&theme=dracula" alt="top" />
 </p>
  
