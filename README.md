@@ -4,8 +4,8 @@
 <a href="https://scholar.google.ca/citations?user=PAab4NEAAAAJ&hl=en"><img align="left" alt="Google Scholar" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/1ae2d6eb07681c9ad1b04fef68da9532a0ed432d/google-scholar-square.svg" /></a>
 <a href="https://twitter.com/RahaviSelva30"><img align="left" alt="Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/rahavi-selv/"><img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" /></a>
+![](https://visitor-badge.glitch.me/badge?page_id=RahaviSelvarajan.RahaviSelvarajan)
 
-<br />
 <br />
 
 ### Current Positions
