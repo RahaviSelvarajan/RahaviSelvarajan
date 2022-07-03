@@ -38,8 +38,10 @@ const rahavi = {
 
 ### 📊 My GitHub stats
 <p>
-<img src="https://github-readme-stats.vercel.app/api?username=RahaviSelvarajan&show_icons=true&layout=compact&theme=dracula&hide=prs" alt="rahavi" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahaviSelvarajan&layout=compact&show_icons=true&theme=dracula" alt="top" />
+<a href="https://github.com/RahaviSelvarajan">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahaviSelvarajan&show_icons=true&layout=compact&theme=dracula&hide=prs" alt="rahavi" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahaviSelvarajan&layout=compact&show_icons=true&theme=dracula" alt="top" />
+</a>
 </p>
  
 <br />
