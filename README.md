@@ -25,14 +25,14 @@
 const rahavi = {
   pronouns: "she" | "her",
   code: [Python, C, C++, MATLAB, SQL],
-  tools: [Docker, Azure, VSCode, Jupyter Notebook, AWS],
+  frameworks: [PyTorch, Tensorflow, Flask],
   expertise: ["computer vision", "deep learning", "computational biology"],
   Platforms: {
-                Python: ["VSCode", "Colab"],
+                Python: ["VSCode", "Colab", "Jupyter Notebook"],
                 SQL: "Microsoft Access",
                 Cloud: ["AWS", "Azure"]
               },
- Current interests: "I am currently learning Natural Language Processing (NLP)"
+ Current interests: "I am currently learning Cloud computing and backend development"
 }
 ```
 <br />
