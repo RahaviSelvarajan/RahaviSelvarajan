@@ -8,11 +8,11 @@
 <br />
 
 ### Current Positions
-- <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/RahaviSelvarajan/blob/021db1084bc6d56cde1e18bfa99bb317ff6b9d50/softeng.png" /> Python Software Engineer at <a href="https://github.com/MoveMatch"> UofT Hatchery </a> <br />
 - <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/8750df97d7df6e8d3eb82586653e029ac1bfb858/CV.png" /> Computer Vision Intern at <a href="https://www.jacobb.ai/en/"> JACOBB AI </a> <br />
 - <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/graduating-student.png"/>  Graduate student at <a href="https://www.utoronto.ca/"> University of Toronto</a> <br />
 
 ### Previous Experience
+- <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/RahaviSelvarajan/blob/021db1084bc6d56cde1e18bfa99bb317ff6b9d50/softeng.png" /> Python Software Engineer at <a href="https://github.com/MoveMatch"> UofT Hatchery </a> <br />
 - <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/machine-learning.png" />  ML Intern at <a href="https://aid4mental.health/"> AID4MH, CAMH</a> <br />
 - <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/idea.png" />   Research Assistant at <a href="https://www.dsp.utoronto.ca/"> Multimedia Lab, UofT </a> <br />
 - <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/df618baf23ba7f29f9b8e7a3b35e6e87baac7758/girl.png" /> Teaching Assistant at <a href="https://www.utoronto.ca/"> University of Toronto</a> <br />
