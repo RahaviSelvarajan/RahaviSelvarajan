@@ -40,8 +40,8 @@ const rahavi = {
 ### 📊 My GitHub stats
 <p>
 <a href="https://github.com/RahaviSelvarajan">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RahaviSelvarajan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="rahavi" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahaviSelvarajan&layout=compact&langs_count=8&theme=algolia" alt="top" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=RahaviSelvarajan&show_icons=true&theme=algolia&include_all_commits=true&count_private=true" alt="rahavi" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RahaviSelvarajan&layout=compact&langs_count=8&theme=algolia" alt="top" />
 </a>
 </p>
  
