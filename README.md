@@ -10,7 +10,7 @@
 - <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/graduating-student.png"/>  Master of Engineering (Computer Engineering) at <a href="https://www.utoronto.ca/"> University of Toronto</a> <br />
 - <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/graduating-student.png"/>  Bachelor of Engineering (ECE) at <a href="https://www.utoronto.ca/"> PSG iTech</a> <br />
 
-### Current Positions
+### Current Position
 - <img align="left" alt="CV" width="22px" src="https://github.com/RahaviSelvarajan/rselva/blob/060c178d71116ddbcf7e88c404e53b5ef7866f9a/machine-learning.png" />  Data and ML Engineer at <a href="https://www.sanofi.com/en"> Sanofi</a> <br />
 
 ### Previous Experience
