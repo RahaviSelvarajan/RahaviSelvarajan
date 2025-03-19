@@ -3,7 +3,6 @@
 <a href="https://twitter.com/RahaviSelva30"><img align="left" alt="Twitter" width="24px" src="https://github.com/RahaviSelvarajan/RahaviSelvarajan/blob/main/icons8-twitter-22.svg" /></a>
 <a href="https://www.linkedin.com/in/rahavi-selv/"><img align="left" alt="LinkedIN" width="24px" src="https://github.com/RahaviSelvarajan/RahaviSelvarajan/blob/main/icons8-linkedin-50.png" /></a>
 <a href="https://scholar.google.ca/citations?user=PAab4NEAAAAJ&hl=en"><img align="left" alt="Google Scholar" width="20px" src="https://github.com/RahaviSelvarajan/rselva/blob/1ae2d6eb07681c9ad1b04fef68da9532a0ed432d/google-scholar-square.svg" /></a>
-<a href="https://www.instagram.com/rahavi_selvarajan/"><img align="left" alt="Rahavi's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" /></a>
 <br />
 
 ### Education
